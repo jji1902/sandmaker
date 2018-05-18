@@ -2,7 +2,7 @@
 
 int main(){
 
-
+  printf("Hi im 지연");
 
   return 0;
   
